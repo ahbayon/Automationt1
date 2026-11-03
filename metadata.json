@@ -1,0 +1,6 @@
+{
+  "name": "Natok Automation PRO",
+  "description": "AI-powered automated video generator for Bengali drama (Natok) reviews, recap storytelling, frame extraction, voiceover narration, and social media video creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
